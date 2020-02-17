@@ -1,6 +1,6 @@
 {
   "ver": "2.3.3",
-  "uuid": "4148369f-3ed1-432b-9113-8ec7ab4010cf",
+  "uuid": "e5ee120a-0e46-41a0-abd6-655d931c9835",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -11,8 +11,8 @@
   "subMetas": {
     "jifenban": {
       "ver": "1.0.4",
-      "uuid": "d76a9eda-034c-4693-b460-2e8813da7bcd",
-      "rawTextureUuid": "4148369f-3ed1-432b-9113-8ec7ab4010cf",
+      "uuid": "6cf07206-306a-4386-99e7-c1eea2a62f35",
+      "rawTextureUuid": "e5ee120a-0e46-41a0-abd6-655d931c9835",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

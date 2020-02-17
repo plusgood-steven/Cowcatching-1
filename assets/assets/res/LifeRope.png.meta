@@ -1,6 +1,6 @@
 {
   "ver": "2.3.3",
-  "uuid": "70fa7f37-573b-46fd-a03f-1a4717e728cb",
+  "uuid": "fdc67835-bc8c-4e01-bf47-5ba48db8e6d4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -11,8 +11,8 @@
   "subMetas": {
     "LifeRope": {
       "ver": "1.0.4",
-      "uuid": "a69363b0-c2cd-41c3-8948-201d4114a655",
-      "rawTextureUuid": "70fa7f37-573b-46fd-a03f-1a4717e728cb",
+      "uuid": "e5b2e64b-7443-4422-a3a8-d0a36f608128",
+      "rawTextureUuid": "fdc67835-bc8c-4e01-bf47-5ba48db8e6d4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

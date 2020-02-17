@@ -1,6 +1,6 @@
 {
   "ver": "2.3.3",
-  "uuid": "dfb5eaa9-3ed2-4621-b50a-49c407bcb859",
+  "uuid": "e1a0c864-479f-40c3-85fe-afb24b83a65f",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -11,8 +11,8 @@
   "subMetas": {
     "ropeCow2": {
       "ver": "1.0.4",
-      "uuid": "e871be0b-1084-4af8-b291-0c97f5d357db",
-      "rawTextureUuid": "dfb5eaa9-3ed2-4621-b50a-49c407bcb859",
+      "uuid": "48a21c89-7f87-4f05-a1b8-bf23351662c6",
+      "rawTextureUuid": "e1a0c864-479f-40c3-85fe-afb24b83a65f",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.3",
-  "uuid": "a0e95155-640e-469c-be34-d312754fcffd",
+  "uuid": "defef152-77c6-4967-af11-0888be044a9c",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -11,8 +11,8 @@
   "subMetas": {
     "Rope_Ready4": {
       "ver": "1.0.4",
-      "uuid": "20c5934f-ca01-4cad-9ca0-93e1cd5c1e22",
-      "rawTextureUuid": "a0e95155-640e-469c-be34-d312754fcffd",
+      "uuid": "5aa4da04-9dff-4b54-b9f0-50d7e86ee2c1",
+      "rawTextureUuid": "defef152-77c6-4967-af11-0888be044a9c",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
